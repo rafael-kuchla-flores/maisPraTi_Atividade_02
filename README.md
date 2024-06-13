@@ -2,7 +2,7 @@
 
 Essa pasta conciste em uma lista de exercícios disponibilizadas no módulo 1 do curso de Desenvolvedor Full Stack da +Prati em parceria com a Codifica Edu.
 
-Status da Lista: concluido ✔️
+Status da Lista: Em Andamento ⏳
 
 
 ## Pré-requisitos
